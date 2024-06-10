@@ -2,7 +2,7 @@
 
 https://youtu.be/stazeSugvOI
 
-![flight tracker](https://github.com/Iseul-park/flight-tracker/assets/115364398/2d2b1651-b682-43de-83fb-5cabb25209ea)
+![flight tracker small](https://github.com/Iseul-park/flight-tracker/assets/115364398/4927eff5-5e60-483d-82ca-b63273c2faf3)
 
 ## Overview
 The Aviation Stack Flight Tracker Mobile App, developed in Java using Android Studio, 
